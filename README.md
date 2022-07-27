@@ -8,5 +8,5 @@
   <ul>
     <p>&ensp;Para modificar la version hacer:</p>
     <li>Acceda al archivo <a href="https://github.com/FReptar0/PracticaBD-Pokedex/edit/master/pom.xml">pom.xml</a></li>
-    <li>En la etiqueta 'dependencies' ubicar la etiqueta 'dependecy' que contenga la etiqueda 'groupId' con valor 'mysql' y <br> modificar la etiqueta 'version' con la version que se tenga en el sistema</li>
+    <li>En la etiqueta 'dependencies' ubicar la etiqueta 'dependecy' que contenga la etiqueda 'groupId' con valor 'mysql' y modificar la etiqueta 'version' con la version que se tenga en el sistema</li>
   </ul>
