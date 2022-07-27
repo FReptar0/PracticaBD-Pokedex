@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pokedex3d:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>pokedex3d</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="pokedex3d-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pokedex3d:war exploded" />
+    </root>
+  </artifact>
+</component>
